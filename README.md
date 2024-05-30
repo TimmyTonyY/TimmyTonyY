@@ -1,4 +1,5 @@
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/795775575805796352/1701382756/1080x360)
+![I am GitHub Readme Generator's creator](https://github.com/TimmyTonyY/TimmyTonyY/blob/main/%F0%9F%94%8D%20Insightful%20Analysis%20%20%F0%9F%93%8A%20Dynamic%20Visualizations%20%20%F0%9F%90%8D%20Python%20Power.jpg)
+
 ## Hi there 👋, I'm Timmy Tony
 
 **`Digital Craftsman (Data Analyst)`**
