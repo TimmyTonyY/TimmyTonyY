@@ -8,11 +8,9 @@ I am a passionate Data Analyst with a strong background in MySQL, Excel, Power B
 
 ### 🌍 Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/TimmyTonyY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TimmyTonyY" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/timmytonyy " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="timmytonyy" height="30" width="40" /></a>
-<a href="https://medium.com/@TimmyTonyY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@TimmyTonyY" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/timmytonyy/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TimmyTonyY) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@TimmyTonyY)  
 
 ### 🧰 Languages and Tools
 
@@ -28,3 +26,6 @@ I am a passionate Data Analyst with a strong background in MySQL, Excel, Power B
 
 </p>
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyTonyY)](https://github.com/anuraghazra/github-readme-stats)
