@@ -1,3 +1,4 @@
+(https://pbs.twimg.com/profile_banners/795775575805796352/1701382756/1080x360)
 ## Hi there 👋, I'm Timmy Tony
 
 **`Digital Craftsman (Data Analyst)`**
